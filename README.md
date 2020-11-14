@@ -21,4 +21,4 @@ Optimization terminated successfully.
         x: array([ 19.41147127, 200.26861781])
 [1.94114713e-04 2.00268618e+09]
 ```
-![optim(RC_simple_w_recent_datas.png)
+![optim](RC_simple_w_recent_datas.png)
