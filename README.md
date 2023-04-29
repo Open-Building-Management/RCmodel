@@ -22,3 +22,7 @@ Optimization terminated successfully.
 [1.94114713e-04 2.00268618e+09]
 ```
 ![optim](RC_simple_w_recent_datas.png)
+
+# pour en savoir plus sur l'équation de la chaleur
+
+http://www.lmm.jussieu.fr/~lagree/COURS/MECAVENIR/
