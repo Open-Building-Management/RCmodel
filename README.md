@@ -26,3 +26,5 @@ Optimization terminated successfully.
 # pour en savoir plus sur l'équation de la chaleur
 
 http://www.lmm.jussieu.fr/~lagree/COURS/MECAVENIR/
+
+[Zoom sur le 1D](cours4_eqchal_loc.pdf)
